@@ -4,7 +4,7 @@
 // string
 let aa = "AAAA"
 let bb = "BBBB ${10 * 8}"
-let cc = `CCCC ${10 * 8}` //${ expression }
+let cc = `CCCC ${10 * 8}` //${ expression } // แนะนำ
 console.log(aa,bb,cc)
 
 // number

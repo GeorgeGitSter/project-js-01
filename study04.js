@@ -25,5 +25,5 @@ console.log(Number(ee))
 console.log(dd.toString())
 
 let ff = 0
-console.log(Boolean(ff  ))
+console.log(Boolean(ff ))
 

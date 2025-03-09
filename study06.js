@@ -26,3 +26,4 @@ let ee = [1,2,3]
 let ff = [10,20,30]
 let gg = [...ee, ...ff]
 console.log(gg)
+

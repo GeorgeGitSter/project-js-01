@@ -7,12 +7,14 @@ console.log( 50 % 7)
 
 
 // Comparison Operators == === != !== > < >= <=
-console.log(10 == '10') //true
-console.log(10 === '10') //false
+console.log(10 == '10') //true ไม่สนใจ type
+console.log(10 === '10') //false สนใจ type
 
 
 // Logical Operators && || !
 
-
+// && = and
+// || = or
+// ! = not
 
 

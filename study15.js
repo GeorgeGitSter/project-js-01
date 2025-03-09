@@ -3,7 +3,30 @@
 //------------------------------
 // function expression การประกาศฟังก์ชันโดยใช้ตัวแปร
 // 1. anonymous function ฟังก์ชันที่ไม่มีชื่อ
+var aa = function () {
+    console.log("Hello")
+}
+let bb = function (data) {
+    console.log("Hi")
+    console.log(data)
+}
 
+const cc = function () {
+    console.log("Hey")
+}
+
+const ee = function (n1,n2) {
+    return n1 * n2
+}
+
+console.log(ee(10,20))
+
+let dd = cc
+
+aa()
+bb(10)
+cc()
+dd()
 
 
 

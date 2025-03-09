@@ -1,4 +1,5 @@
 // build-in number function and method
+// build-in สำเร็จรูป
 //------------------------------
 // number function
 // Number(), parseInt(), parseFloat()
